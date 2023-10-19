@@ -5,7 +5,7 @@ morea_type: home
 published: true
 ---
 
-## Welcome to Andrea's EE260, Fall 2023
+## Welcome to EE260, Fall 2023
 
 <div class="alert alert-danger" role="alert" markdown="1">
 
