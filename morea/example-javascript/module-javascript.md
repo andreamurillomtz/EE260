@@ -1,5 +1,5 @@
 ---
-title: "Javascript: Basics"
+title: "Flip Flop"
 published: true
 morea_coming_soon: false
 morea_id: example-javascript
@@ -26,5 +26,4 @@ morea_end_date: "2021-07-16T23:00"
 morea_labels:
 morea_sort_order: 21
 ---
-
-Basic Javascript coding: variables, expressions, conditionals, loops, functions, arrays, objects.
+Different FlipFlops used in this class and their logic
