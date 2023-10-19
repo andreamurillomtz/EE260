@@ -20,7 +20,7 @@ morea_experiences:
 morea_assessments:
   - assessment-javascript-1
 morea_type: module
-morea_icon_url: /morea/example-javascript/javascript.png
+morea_icon_url: /morea/example-javascript/flipflop.png
 morea_start_date: "2021-07-12"
 morea_end_date: "2021-07-16T23:00"
 morea_labels:
