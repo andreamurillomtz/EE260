@@ -1,5 +1,5 @@
 ---
-title: "Ethics in Software Engineering"
+title: "Virlog"
 published: true
 morea_coming_soon: false
 morea_id: ethics
@@ -16,7 +16,7 @@ morea_experiences:
  - experience-se-ethics-harm
 morea_assessments:
  - assessment-ethics
-morea_icon_url: /morea/example-ethics/ethics.png
+morea_icon_url: /morea/example-ethics/SystemVerilog_logo.png
 morea_type: module
 morea_sort_order: 125
 morea_start_date: "2021-07-26"
