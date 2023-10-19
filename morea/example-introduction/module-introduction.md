@@ -17,11 +17,11 @@ morea_experiences:
   - experience-learn-the-command-line
 morea_assessments:
 morea_type: module
-morea_icon_url: /morea/example-introduction/introduction.jpg
+morea_icon_url: /morea/example-introduction/binary_decoder_logo.jpg
 morea_start_date: "2021-07-06"
 morea_end_date: "2021-07-09T23:00"
 morea_labels:
 morea_sort_order: 10
 ---
 
-Overview of ICS 199, and some simple initial tasks to get oriented and ready for the course.
+Learn what a binary decoder, how to design them and where to implement them
