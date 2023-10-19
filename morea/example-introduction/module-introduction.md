@@ -1,5 +1,5 @@
 ---
-title: "Introduction to ICS 199"
+title: "Binary Decoder"
 published: true
 morea_coming_soon: false
 morea_id: example-introduction
