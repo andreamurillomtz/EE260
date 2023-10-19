@@ -1,4 +1,4 @@
---
+---
 title: "Binary Decoder"
 published: true
 morea_coming_soon: false
