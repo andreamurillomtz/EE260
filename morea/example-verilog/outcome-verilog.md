@@ -1,7 +1,7 @@
 ---
 title: "Get a grasp of introducction to Virlog"
 published: true
-morea_id: outcome-virlog
+morea_id: outcome-verilog
 morea_type: outcome
 morea_sort_order: 9
 ---

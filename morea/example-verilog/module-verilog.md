@@ -15,7 +15,7 @@ morea_experiences:
  - experience-se-ethics-good
  - experience-se-ethics-harm
 morea_assessments:
- - assessment-ethics
+ - assessment-verilog
 morea_icon_url: /morea/example-verilog/SystemVerilog_logo.png
 morea_type: module
 morea_sort_order: 125
