@@ -1,10 +1,10 @@
 ---
 title: "A03: Assess your ability to reason about ethical issues in software development"
 published: true
-morea_id: assessment-ethics
+morea_id: assessment-verilog
 morea_summary: What would you do under pressure?
 morea_outcomes_assessed:
- - outcome-ethics
+ - outcome-verilog
 morea_type: assessment
 morea_start_date: "2021-07-30T09:00"
 morea_sort_order: 12
