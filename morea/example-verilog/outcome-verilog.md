@@ -1,5 +1,5 @@
 ---
-title: "Get a grasp of introducction to Virlog"
+title: "Get a grasp of introduction to Verilog"
 published: true
 morea_id: outcome-verilog
 morea_type: outcome
