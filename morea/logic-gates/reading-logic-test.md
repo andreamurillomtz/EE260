@@ -1,7 +1,7 @@
 ---
 title: "Guided tour of the ethics module"
 published: true
-morea_id: reading-screencast-guided-tour-ethics
+morea_id: reading-logic-gates
 # morea_url: https://www.youtube.com/watch?v=_1KLYoEP1cQ
 morea_summary: "Overview of the ethics module"
 morea_type: reading

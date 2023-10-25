@@ -1,7 +1,7 @@
 ---
 title: "E09: Doing good as a software engineer"
 published: true
-morea_id: experience-se-ethics-good
+morea_id: experience-logic-test
 morea_summary: "How can software engineers contribute to the good life for others?"
 morea_type: experience
 morea_start_date: "2021-07-27T23:00"

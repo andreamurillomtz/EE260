@@ -6,17 +6,12 @@ morea_id: logic-gates
 morea_outcomes:
   - outcome-logic-gates
 morea_readings:
- - reading-screencast-guided-tour-ethics
- - reading-se-ethics-intro
- - reading-acm-code
- - reading-acm-se-code
+ - reading-logic-test
 morea_experiences:
- - experience-se-ethics-codes
- - experience-se-ethics-good
- - experience-se-ethics-harm
+ - experience-logic-test
 morea_assessments:
- - assessment-logic-gates
-morea_icon_url: /morea/example-verilog/SystemVerilog_logo.png
+ - assessment-logic-test
+morea_icon_url: /morea/logic-gates/logic_gates_logo.jpg
 morea_type: module
 morea_sort_order: 125
 morea_start_date: "2021-07-26"
