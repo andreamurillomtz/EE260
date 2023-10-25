@@ -1,7 +1,7 @@
 ---
 title: "A03: Assess your ability to reason about ethical issues in software development"
 published: true
-morea_id: assessment-logic-gates
+morea_id: assessment-logic-test
 morea_summary: What would you do under pressure?
 morea_outcomes_assessed:
  - outcome-logic-gates
